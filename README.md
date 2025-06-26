@@ -1,7 +1,22 @@
-to Run the server
+## 🔧 How to Run This Project Locally
 
-copy this command into terminal: node server.js
+1. Clone the repository:
 
+     bash
+    git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+    cd YOUR-REPO-NAME   
 
--Server will run on:
-http://localhost:3000
+3. Install dependencies:
+
+    bash
+    npm install
+    
+4. Start the server:
+
+    bash
+    node server.js
+ 
+
+5. Open in your browser:
+
+  http://localhost:3000
