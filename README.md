@@ -1,22 +1,30 @@
-## 🔧 How to Run This Project Locally
+
+
+## To run this project locally on your own machine:
 
 1. Clone the repository:
 
-     bash
+    bash
     git clone https://github.com/Rumman-Sadik/node-js-project.git
-    cd YOUR-REPO-NAME   
+    cd chefer-express
+    
 
-3. Install dependencies:
+2. Install the dependencies:
 
     bash
     npm install
-    
-4. Start the server:
+   
 
-    bash
+3. Start the server:
+
+   bash
     node server.js
- 
+    
 
-5. Open in your browser:
+4. Open your browser at:
 
-  http://localhost:3000
+   
+   http://localhost:3000
+    
+
+That's it — you're running Chefer locally!
