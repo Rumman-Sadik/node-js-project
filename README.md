@@ -1,5 +1,9 @@
 to Run the server
-type in the terminal:
+copy this in the terminal:
+
+cd "chefer-express"
 node server.js
-Server will run on:
+
+
+-Server will run on:
 http://localhost:3000
