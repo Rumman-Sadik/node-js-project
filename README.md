@@ -3,7 +3,7 @@
 1. Clone the repository:
 
      bash
-    git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+    git clone https://github.com/Rumman-Sadik/node-js-project.git
     cd YOUR-REPO-NAME   
 
 3. Install dependencies:
